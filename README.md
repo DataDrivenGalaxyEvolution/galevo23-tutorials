@@ -1,5 +1,7 @@
 # KITP Galevo23 Tutorials
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/)
+
 This repository contains tutorials for the 2023 KITP hybrid program *Building a Physical Understanding of Galaxy Evolution with Data-driven Astronomy*. For the program schedule and additional information, take a look at our [website](https://datadrivengalaxyevolution.github.io) or [KITP listing](https://www.kitp.ucsb.edu/activities/galevo23).
 
 ## What are these tutorials?
@@ -39,4 +41,4 @@ Each week we will address a different set of scientific topics, and these **week
 
 We hope that most of these tutorials can be run on the cloud (e.g. through Google Colab) or locally with minimal dependencies. However, we note that different tutorials have different authors, so the coding and writing style will not be consistent throughout the repository. 
 
-To navigate to a tutorial, simply click on the week you're interested in (see above schedule) and find the relevant files for each tutorial.
+To navigate to a tutorial, simply click on the week you're interested in (see above schedule) and find the relevant files for each tutorial. For example, if you want to open the *Introduction to Convolutional Neural Networks* tutorial, go to `week-1` and then open `Introduction to convolutional neural networks.ipynb`. Note that you can also open this repository or the subdirectories in [Google Colab](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/).

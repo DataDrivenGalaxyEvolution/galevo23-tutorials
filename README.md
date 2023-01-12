@@ -13,25 +13,25 @@ Although each tutorial session is 1.5 hours long, we expect that the tutorial le
 Each week we will address a different set of scientific topics, and these **weekly themes** are now set for the virtual programs (see [here](https://datadrivengalaxyevolution.github.io/#virtualweeks)). We aim to have two tutorials per week, and will update this page as more details are finalized.
 
 
-- **Week 01 Tutorials**
+- **Week 1 Tutorials**
     * Wed 1/18 - Large-scale galaxy formation simulations and machine learning approaches
     * Thurs 1/19 - Introduction to convolutional neural networks
-- **Week 02 Tutorials**
+- **Week 2 Tutorials**
     * Tues 1/24 - The galaxy-halo connection and machine learning approaches
     * Wed 1/25 - Galaxy scaling relations through working with UniverseMachine
-- **Week 03 Tutorials (CCA hybrid workshop)**
+- **Week 3 Tutorials (CCA hybrid workshop)**
     * Mon 1/30 - Tutorial (parallel session)
     * Tues 1/31 - Tutorial (parallel session)
     * Wed 2/1 - Tutorial (parallel session)
     * Thurs 2/2 - Tutorial (parallel session)
     * Fri 2/3 - Tutorial (parallel session)
-- **Week 04 Tutorials**
+- **Week 4 Tutorials**
     * Tues 2/7 - Tutorial
     * Wed 2/8 - Tutorial
-- **Week 05 Tutorials**
+- **Week 5 Tutorials**
     * Tues 2/14 - Tutorial
     * Wed 2/15 - Tutorial
-- **Week 06 Tutorials**
+- **Week 6 Tutorials**
     * Tues 2/21 - Tutorial
     * Wed 2/22 - Tutorial
 

@@ -11,11 +11,12 @@ virtually, January 24th, as part of the second week of the
 Here you can find:
 
 * `slides/`: Slides of the presentation
-* `notebooks/`: Jupyter-notebooks (notice that the notebooks are presented here in order to be run, but you can use they independently as long you have access to all data in the files)
-  * `handling_data`: general data details, including how to read the files, get halo/galaxy properties and pre-process everthing
-  * `NN`: linking halo to galaxies using neural networks
-  * `SMOGN`: augmenting the dataset using SMOGN
-  * `SMOGN_predictions`: getting the predictions using the augmented datasets
+* A **jupyter-notebook** with all the material:
+  * **Handling data:** general data details, including how to read the files, get halo/galaxy properties and pre-process everthing
+  * **Neural Networks:** linking halo to galaxies using neural networks
+  * **Optuna:** hyperparameter optmization with `optuna`
+  * **SMOGN:** data augmentation using `SMOGN`
+  * **SMOGN predictions using optuna:** getting the predictions using the augmented datasets in an optimized model
   
 ## Supplementary material
 

@@ -1,22 +1,26 @@
 # Tutorial on halo-galaxy connection
 
-Hello there! Here you will find a tutorial on halo-galaxy connection developed by
-[@christopherlovell](https://www.christopherlovell.co.uk/) and me
-([@natalidesanti](https://natalidesanti.github.io/)). More specificaly this tutorial will happen
-virtually, January 24th, as part of the second week of the
+Hello there! Here you will find a tutorial on halo-galaxy connection developed by [@christopherlovell](https://www.christopherlovell.co.uk/) and ([@natalidesanti](https://natalidesanti.github.io/)). This tutorial will happen virtually on January 24th as part of the second week of the
 [Building a physical understanding of galaxy evolution with data-driven astronomy](https://datadrivengalaxyevolution.github.io/#description).
 
 ## Material
 
-Here you can find:
+Here you can find two jupyter notebooks:
 
-* `slides/`: Slides of the presentation
-* A **jupyter-notebook** with all the material:
+* The galaxy-halo relationship:
   * **Handling data:** general data details, including how to read the files, get halo/galaxy properties and pre-process everthing
   * **Neural Networks:** linking halo to galaxies using neural networks
   * **Optuna:** hyperparameter optmization with `optuna`
   * **SMOGN:** data augmentation using `SMOGN`
   * **SMOGN predictions using optuna:** getting the predictions using the augmented datasets in an optimized model
+  * Matching between halo catalogues in DMO and Hydro simulations
+ 
+* Normalizing flows
+  * Background
+  * Multivariate transforms
+  * Couple transforms
+  * Conditional transforms
+  * An application to galaxy-halo data
   
 ## Supplementary material
 

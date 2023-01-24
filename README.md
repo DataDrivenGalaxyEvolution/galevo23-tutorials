@@ -16,11 +16,12 @@ Each week we will address a different set of scientific topics, and these **week
 
 
 - **Week 1 Tutorials**
-    * Wed 1/18 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Large_scale_galaxy_formation_simulations_and_machine_learning_approaches_Part1_Simulated_absorption_spectra.ipynb) Large-scale galaxy formation simulations and machine learning approaches, part 1: Absorption spectra in hydro simulations, by Mahdi Qezlou
-    * Wed 1/18 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Large_scale_galaxy_formation_simulations_and_machine_learning_approaches_(Part_2)_Gaussian_process_regression_for_emulation.ipynb)  Large-scale galaxy formation simulations and machine learning approaches, part 2: Gaussian process regression for emulation, by Ming-Feng Ho
-    * Thurs 1/19 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Introduction%20to%20convolutional%20neural%20networks.ipynb) Introduction to convolutional neural networks, by John Wu
+    * Wed 1/18 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Large_scale_galaxy_formation_simulations_and_machine_learning_approaches_Part1_Simulated_absorption_spectra.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/qezlou_ho/) Large-scale galaxy formation simulations and machine learning approaches, part 1: Absorption spectra in hydro simulations, by Mahdi Qezlou
+    * Wed 1/18 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Large_scale_galaxy_formation_simulations_and_machine_learning_approaches_(Part_2)_Gaussian_process_regression_for_emulation.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/qezlou_ho/) Large-scale galaxy formation simulations and machine learning approaches, part 2: Gaussian process regression for emulation, by Ming-Feng Ho
+    * Thurs 1/19 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-1/Introduction%20to%20convolutional%20neural%20networks.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/wu/) Introduction to convolutional neural networks, by John Wu
 - **Week 2 Tutorials**
-    * Tues 1/24 - The galaxy-halo connection and machine learning approaches
+    * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/halo-galaxy_connection.ipynb) The galaxy-halo connection and machine learning approaches, part 1: Modeling the halo-galaxy connection
+    * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/Part2%20-%20Normalizing_flows.ipynb) The galaxy-halo connection and machine learning approaches, part 2: Density estimation with normalizing flows
     * Wed 1/25 - Galaxy scaling relations through working with UniverseMachine
 - **Week 3 Tutorials (CCA hybrid workshop)**
     * Mon 1/30 - Tutorial (parallel session)

@@ -22,7 +22,7 @@ Each week we will address a different set of scientific topics, and these **week
 - **Week 2 Tutorials**
     * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/halo-galaxy_connection.ipynb) The galaxy-halo connection and machine learning approaches, part 1: Modeling the halo-galaxy connection, by Natalí de Santi 
     * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/Part2%20-%20Normalizing_flows.ipynb) The galaxy-halo connection and machine learning approaches, part 2: Density estimation with normalizing flows, by Christopher Lovell
-    * Wed 1/25 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/UniverseMachine_Tutorial.ipynb) Galaxy scaling relations through working with UniverseMachine, by Peter Behroozi
+    * Wed 1/25 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_universemachine/UniverseMachine_Tutorial.ipynb) Galaxy scaling relations through working with UniverseMachine, by Peter Behroozi
 - **Week 3 Tutorials (CCA hybrid workshop)**
     * Mon 1/30 - Tutorial (parallel session)
     * Tues 1/31 - Tutorial (parallel session)

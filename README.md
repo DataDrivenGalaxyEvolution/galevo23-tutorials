@@ -24,14 +24,14 @@ Each week we will address a different set of scientific topics, and these **week
     * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/Part2%20-%20Normalizing_flows.ipynb) The galaxy-halo connection and machine learning approaches, part 2: Density estimation with normalizing flows, by Christopher Lovell
     * Wed 1/25 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_universemachine/UniverseMachine_Tutorial.ipynb) Galaxy scaling relations through working with UniverseMachine, by Peter Behroozi
 - **Week 3 Tutorials (CCA hybrid workshop)**
-    * Mon 1/30 - Tutorial (parallel session)
-    * Tues 1/31 - Tutorial (parallel session)
-    * Wed 2/1 - Tutorial (parallel session)
-    * Thurs 2/2 - Tutorial (parallel session)
-    * Fri 2/3 - Tutorial (parallel session)
+    * Mon 1/30 - Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
+    * Tues 1/31 - Symbolic regression, by Miles Cranmer
+    * Wed 2/1 - Simulation-based inference, by ChangHoon Hahn
+    * Thurs 2/2 - Spectral energy distribution modeling, Kartheik Iyer
+    * Fri 2/3 - Graph neural networks and merger trees, by Christian Kragh Jespersen
 - **Week 4 Tutorials**
-    * Tues 2/7 - Tutorial
-    * Wed 2/8 - Tutorial
+    * Tues 2/7 - Autodifferentiation and JAX, by Andrew Hearin
+    * Wed 2/8 - Photometric redshifts and uncertainties, by Alex Malz
 - **Week 5 Tutorials**
     * Tues 2/14 - Tutorial
     * Wed 2/15 - Tutorial

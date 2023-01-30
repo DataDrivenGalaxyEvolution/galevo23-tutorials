@@ -24,7 +24,7 @@ Each week we will address a different set of scientific topics, and these **week
     * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/Part2%20-%20Normalizing_flows.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/desanti_lovell/) The galaxy-halo connection and machine learning approaches, part 2: Density estimation with normalizing flows, by Christopher Lovell
     * Wed 1/25 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_universemachine/UniverseMachine_Tutorial.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/behroozi/) Galaxy scaling relations through working with UniverseMachine, by Peter Behroozi
 - **Week 3 Tutorials (CCA hybrid workshop)**
-    * Mon 1/30 - Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
+    * Mon 1/30 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/robust_uncertainties.ipynb) Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
     * Tues 1/31 - Symbolic regression, by Miles Cranmer
     * Wed 2/1 - Simulation-based inference, by ChangHoon Hahn
     * Thurs 2/2 - Spectral energy distribution modeling, Kartheik Iyer

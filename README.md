@@ -27,17 +27,15 @@ Each week we will address a different set of scientific topics, and these **week
     * Mon 1/30 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/robust_uncertainties.ipynb) Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
     * Tues 1/31 - [[Github]](https://github.com/MilesCranmer/pysr_tutorial) Symbolic Regression with PySR, by Miles Cranmer
     * Wed 2/1 - [[Colab]](https://colab.research.google.com/github/changhoonhahn/galevo23-tutorials/blob/main/week-3/sbi_tutorial.ipynb) Simulation-Based Inference, by ChangHoon Hahn
+    * [[Notebook]](https://github.com/drtobybrown/KITP-CCA-Demo/blob/main/notebooks/PyCaret_Regression_Tutorial-Frozen.ipynb) Thurs 2/2 - Short tutorial on PyCaret, Toby Brown
     * Thurs 2/2 - Spectral energy distribution modeling, Kartheik Iyer
-    * Fri 2/3 - Graph neural networks and merger trees, by Christian Kragh Jespersen
+    * Fri 2/3 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/KITP-CCA-GNN-tutorial.ipynb) Graph neural networks and merger trees, by Christian Kragh Jespersen
 - **Week 4 Tutorials**
-    * Tues 2/7 - Autodifferentiation and JAX, by Andrew Hearin
     * Wed 2/8 - Photometric redshifts and uncertainties, by Alex Malz
 - **Week 5 Tutorials**
-    * Tues 2/14 - Tutorial
-    * Wed 2/15 - Tutorial
+    * Wed 2/15 - Autodifferentiation and JAX, by Andrew Hearin
 - **Week 6 Tutorials**
-    * Tues 2/21 - Tutorial
-    * Wed 2/22 - Tutorial
+    * Wed 2/22 - Probabilistic U-Nets, Hadi Sotoudeh
 
 ## Navigating through the tutorials
 

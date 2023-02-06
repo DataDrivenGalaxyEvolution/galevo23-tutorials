@@ -35,7 +35,7 @@ Each week we will address a different set of scientific topics, and these **week
 - **Week 5 Tutorials**
     * Wed 2/15 - Autodifferentiation and JAX, by Andrew Hearin
 - **Week 6 Tutorials**
-    * Wed 2/22 - Probabilistic U-Nets, Hadi Sotoudeh
+    * Wed 2/22 - Probabilistic U-Nets, by Hadi Sotoudeh
 
 ## Navigating through the tutorials
 

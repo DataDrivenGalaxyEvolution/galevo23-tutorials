@@ -31,7 +31,7 @@ Each week we will address a different set of scientific topics, and these **week
     * Thurs 2/2 - Spectral energy distribution modeling, by Kartheik Iyer
     * Fri 2/3 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/KITP-CCA-GNN-tutorial.ipynb) Graph neural networks and merger trees, by Christian Kragh Jespersen
 - **Week 4 Tutorials**
-    * Wed 2/8 - Photometric redshifts and uncertainties, by Alex Malz
+    * Wed 2/8 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-4/Malz_KITPCCA_photo-z_tutorial.ipynb) Photometric redshifts and uncertainties thereof, by Alex Malz
 - **Week 5 Tutorials**
     * Wed 2/15 - Autodifferentiation and JAX, by Andrew Hearin
 - **Week 6 Tutorials**

@@ -34,6 +34,7 @@ Each week we will address a different set of scientific topics, and these **week
     * Wed 2/8 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-4/Malz_KITPCCA_photo-z_tutorial.ipynb) Photometric redshifts and uncertainties thereof, by Alex Malz
 - **Week 5 Tutorials**
     * Wed 2/15 - Autodifferentiation and JAX, by Andrew Hearin
+        [[Github]](https://github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-5/)
 - **Week 6 Tutorials**
     * Wed 2/22 - [[Colab]](https://colab.research.google.com/github/mhsotoudeh/ProbUNet-Tutorial/blob/main/02%20Rescue%20The%20Randomness.ipynb) Probabilistic U-Nets, by Hadi Sotoudeh
 

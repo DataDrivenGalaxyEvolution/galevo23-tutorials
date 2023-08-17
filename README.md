@@ -24,18 +24,18 @@ Each week we will address a different set of scientific topics, and these **week
     * Tues 1/24 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_halo-galaxy_connection/Part2%20-%20Normalizing_flows.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/desanti_lovell/) The galaxy-halo connection and machine learning approaches, part 2: Density estimation with normalizing flows, by Christopher Lovell
     * Wed 1/25 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-2/tutorial_on_universemachine/UniverseMachine_Tutorial.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/behroozi/) Galaxy scaling relations through working with UniverseMachine, by Peter Behroozi
 - **Week 3 Tutorials (CCA hybrid workshop)**
-    * Mon 1/30 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/robust_uncertainties.ipynb) Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
-    * Tues 1/31 - [[Github]](https://github.com/MilesCranmer/pysr_tutorial) Symbolic Regression with PySR, by Miles Cranmer
-    * Wed 2/1 - [[Colab]](https://colab.research.google.com/github/changhoonhahn/galevo23-tutorials/blob/main/week-3/sbi_tutorial.ipynb) Simulation-Based Inference, by ChangHoon Hahn
+    * Mon 1/30 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/robust_uncertainties.ipynb) [[Recording]](https://www.dropbox.com/scl/fo/tgpwe1ljr4i9go4ajnsq6/h?dl=0&rlkey=mwl1zi14okj5k1pnbflcgnz3l) Robust Uncertainty Estimation in Machine Learning, by Aritra Ghosh
+    * Tues 1/31 - [[Github]](https://github.com/MilesCranmer/pysr_tutorial) [[Recording]](https://www.dropbox.com/scl/fo/tgpwe1ljr4i9go4ajnsq6/h?dl=0&rlkey=mwl1zi14okj5k1pnbflcgnz3l) Symbolic Regression with PySR, by Miles Cranmer
+    * Wed 2/1 - [[Colab]](https://colab.research.google.com/github/changhoonhahn/galevo23-tutorials/blob/main/week-3/sbi_tutorial.ipynb) [[Recording]](https://www.dropbox.com/scl/fo/tgpwe1ljr4i9go4ajnsq6/h?dl=0&rlkey=mwl1zi14okj5k1pnbflcgnz3l) Simulation-Based Inference, by ChangHoon Hahn
     * Thurs 2/2 - [[Github]](https://github.com/drtobybrown/KITP-CCA-Demo/blob/main/notebooks/PyCaret_Regression_Tutorial-Frozen.ipynb) Short tutorial on PyCaret, by Toby Brown
-    * Thurs 2/2 - Spectral energy distribution modeling, by Kartheik Iyer
-    * Fri 2/3 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/KITP-CCA-GNN-tutorial.ipynb) Graph neural networks and merger trees, by Christian Kragh Jespersen
+    * Thurs 2/2 - [[Recording]](https://www.dropbox.com/scl/fo/tgpwe1ljr4i9go4ajnsq6/h?dl=0&rlkey=mwl1zi14okj5k1pnbflcgnz3l) Spectral energy distribution modeling, by Kartheik Iyer
+    * Fri 2/3 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-3/KITP-CCA-GNN-tutorial.ipynb) [[Recording]](https://www.dropbox.com/scl/fo/tgpwe1ljr4i9go4ajnsq6/h?dl=0&rlkey=mwl1zi14okj5k1pnbflcgnz3l) Graph neural networks and merger trees, by Christian Kragh Jespersen
 - **Week 4 Tutorials**
-    * Wed 2/8 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-4/Malz_KITPCCA_photo-z_tutorial.ipynb) Photometric redshifts and uncertainties thereof, by Alex Malz
+    * Wed 2/8 - [[Colab]](https://colab.research.google.com/github/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-4/Malz_KITPCCA_photo-z_tutorial.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/malz/) Photometric redshifts and uncertainties thereof, by Alex Malz
 - **Week 5 Tutorials**
-    * Wed 2/15 - [[Github]](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-5/) Autodifferentiation and JAX, by Andrew Hearin
+    * Wed 2/15 - [[Github]](https://github.com/DataDrivenGalaxyEvolution/galevo23-tutorials/blob/main/week-5/) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/hearin/) Autodifferentiation and JAX, by Andrew Hearin
 - **Week 6 Tutorials**
-    * Wed 2/22 - [[Colab]](https://colab.research.google.com/github/mhsotoudeh/ProbUNet-Tutorial/blob/main/02%20Rescue%20The%20Randomness.ipynb) Probabilistic U-Nets, by Hadi Sotoudeh
+    * Wed 2/22 - [[Colab]](https://colab.research.google.com/github/mhsotoudeh/ProbUNet-Tutorial/blob/main/02%20Rescue%20The%20Randomness.ipynb) [[Recording]](https://online.kitp.ucsb.edu/online/galevo23/sotoudeh/) Probabilistic U-Nets, by Hadi Sotoudeh
 
 ## Navigating through the tutorials
 
